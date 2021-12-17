@@ -1,5 +1,7 @@
 {
-  "name": "tech_club",
+
+  "homepage": "https://tech-club-cse-feat-au.github.io/tech-club-website/",
+  "name": "tech-club",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -55,8 +57,9 @@
     "webpack-manifest-plugin": "2.0.4",
     "workbox-webpack-plugin": "3.6.3"
   },
-  "homepage": "./",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js"
@@ -115,5 +118,8 @@
     "presets": [
       "react-app"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
