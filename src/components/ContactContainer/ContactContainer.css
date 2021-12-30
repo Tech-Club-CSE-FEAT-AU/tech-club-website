@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Alata&family=Montserrat:wght@100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alata&display=swap");
+
+.contactcontainer {
+  margin-top: 40px;
+  padding-top: 10px;
+  /* height: 50vh; */
+  background-color: rgb(252, 242, 242);
+}
+.contactcontainer__inside > .addr{
+  margin-left: 15%;
+  text-align: left;
+}
+.contactcontainer__inside > h4{
+  margin-left: 15%;
+  text-align: left;
+}
+.contactcontainer__inside > h1 {
+  margin-left: 10%;
+  text-align: left;
+  color: rgb(184, 8, 8);
+}
+
+.conatcticon {
+  text-align: center;
+}
+.conatcticon .fa {
+  margin-top: 100px;
+  color: black;
+}
+.footer {
+  font-family: "Alata", serif;
+  text-align: center;
+  opacity: 0.5;
+}
+.contactcontainer__inside > .conatcticon > a {
+  padding: 5px;
+}

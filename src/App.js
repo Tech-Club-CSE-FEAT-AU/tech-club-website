@@ -1,27 +1,25 @@
-import React, { Component } from "react";
-import Header from "./components/Header";
-import Mission from "./components/Mission";
-import ContactUs from "./components/ContactUs";
-import Footer from "./components/Footer";
-import stringData from "./stringData";
-import Photos from "./components/Photos";
-import NewProjects from "./components/NewProjects";
-import NewPastProjects from "./components/NewPastProjects";
+import React from "react";
+import Header from "./components/Header/Header";
+import TopContainer from "./components/TopContainer/TopContainer";
+import "font-awesome/css/font-awesome.min.css";
+import MissionContainer from "./components/VissionMissionContainer/VissionMissionContainer";
+import WorkContainer from "./components/WorkContainer/WorkContainer";
+import ContactContainer from "./components/ContactContainer/ContactContainer";
+import EventsContainer from "./components/EventsContainer/EventsContainer";
+import metadata from "./Metadata";
+import "./App.css";
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <Header Data={stringData} />
-        <Mission Data={stringData} />
-        <NewProjects Data={stringData} />
-        <NewPastProjects Data={stringData} />
-        <Photos />
-        <ContactUs Data={stringData} />
-        <Footer Data={stringData} />
-      </div>
-    );
-  }
-}
+const App = () => {
+  return (
+    <div>
+      <Header metadata={metadata} />
+      <TopContainer metadata={metadata} />
+      <MissionContainer metadata={metadata} />
+      <WorkContainer metadata={metadata} />
+      <EventsContainer metadata={metadata} />
+      <ContactContainer metadata={metadata} />
+    </div>
+  );
+};
 
 export default App;

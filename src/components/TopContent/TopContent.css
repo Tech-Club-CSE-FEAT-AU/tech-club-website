@@ -1,0 +1,10 @@
+.topcontent {
+  top: 300px;
+  font-size: 7vw;
+  font-family: "Alata", sans-serif;
+  text-align: center;
+  justify-content: center;
+  letter-spacing: 1.5px;
+  color: white;
+  margin: 0;
+}

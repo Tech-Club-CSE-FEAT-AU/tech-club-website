@@ -1,0 +1,26 @@
+.workcontainer {
+  /* min-height: 200vh; */
+  font-family: "Alata", sans-serif;
+  font-size: 1rem;
+}
+.Title {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.workcontainer > div > h1 {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.Workcontainer__projects {
+  display: flex;
+}
+
+.content > img {
+  padding-left: 40px;
+}
+
+.content {
+  font-family: "Montserrat", sans-serif;
+}

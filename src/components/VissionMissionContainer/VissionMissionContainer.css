@@ -1,0 +1,18 @@
+.missioncontainer {
+  /* min-height: 100vh; */
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.7vw;
+
+}
+.Title {
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 40px;
+  font-family: "Alata", sans-serif;
+}
+div > h1 {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: "Alata", sans-serif;
+}
