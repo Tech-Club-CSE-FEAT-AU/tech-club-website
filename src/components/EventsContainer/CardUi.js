@@ -7,10 +7,9 @@ import projectphoto4 from "../../Images/25-11-21 Workshop/Picture 4.png";
 import "./CradUi.css";
 
 const CardUi = (props) => {
-  
   let metadata = props.metadata;
   return (
-    <div className="cardbody">
+    <div className="cardbody" style={{ width: "18rem" }}>
       <div className="card text-center">
         <div className="overflow">
           <img src={projectphoto1} alt="Event image" className="card-img-top" />

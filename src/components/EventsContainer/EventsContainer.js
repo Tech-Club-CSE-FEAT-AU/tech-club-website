@@ -13,7 +13,7 @@ const EventsContainer = (props) => {
           <div className="row">
             {metadata.UpcomingEvents.map((item) => {
               return (
-                <div className="col-md-4">
+                <div className=" col-sm-6 col-md-4">
                   <CardUi metadata={item} />
                 </div>
               );
@@ -23,9 +23,9 @@ const EventsContainer = (props) => {
         <h1>Past Events</h1>
         <div className="container-fluid d-flex justify-content-center">
           <div className="row">
-          {metadata.PastEvents.map((item) => {
+            {metadata.PastEvents.map((item) => {
               return (
-                <div className="col-md-4">
+                <div className="col-sm-6 col-md-4">
                   <CardUi metadata={item} />
                 </div>
               );
