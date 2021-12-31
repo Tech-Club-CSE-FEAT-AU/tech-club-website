@@ -14,10 +14,10 @@ const TopContainer = (props) => {
         {/* <hr /> */}
         <div className="Icons">
           <a href={metadata.github}>
-            <i className="fa fa-github fa-2x"></i>
+            <i class="fab fa-github"></i>
           </a>
-          <a href="#">
-            <i className="fa fa-telegram fa-2x"></i>
+          <a href={metadata.discord}>
+            <i class="fab fa-discord"></i>
           </a>
         </div>
       </div>
