@@ -1,7 +1,7 @@
 {
-  "name": "tech-club-web",
-  "homepage": "https://tech-club-cse-feat-au.github.io",
-  "version": "0.1.0",
+  "name": "tech-club-website",
+  "homepage": "https://DIVAKARV08.github.io",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
