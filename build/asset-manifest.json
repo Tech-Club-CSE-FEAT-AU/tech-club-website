@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d76296f4.css",
+    "main.js": "/static/js/main.36536dfa.js",
+    "static/media/Tech-club-logo.png": "/static/media/Tech-club-logo.41f8d15f4cc0c7916f57.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/Picture 3.png": "/static/media/Picture 3.974b22154c4dbcc75a17.png",
+    "static/media/Picture 4.png": "/static/media/Picture 4.c55f3069162aa45ae768.png",
+    "static/media/Picture 2.png": "/static/media/Picture 2.7ea83034ed70a7aa3f1f.png",
+    "static/media/Picture 1.png": "/static/media/Picture 1.9ae22ce80f38648465ad.png",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/tech.png": "/static/media/tech.0ab2a655ddfd63725c08.png",
+    "index.html": "/index.html",
+    "main.d76296f4.css.map": "/static/css/main.d76296f4.css.map",
+    "main.36536dfa.js.map": "/static/js/main.36536dfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d76296f4.css",
+    "static/js/main.36536dfa.js"
+  ]
+}
