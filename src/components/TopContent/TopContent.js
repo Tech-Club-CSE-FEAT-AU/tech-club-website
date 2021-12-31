@@ -6,7 +6,7 @@ const TopContent = () => {
   return (
     <div className="topcontent">
       <div>
-        <Typed
+        <Typed className="typedName"
           strings={["TechClub"]}
           typeSpeed={30}
           backSpeed={50}

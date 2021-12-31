@@ -1,9 +1,8 @@
 .topcontent {
-  top: 300px;
-  font-size: 7vw;
+  /* top: 300px; */
+  font-size: 80px;
   font-family: "Alata", sans-serif;
-  text-align: center;
-  justify-content: center;
+  background-color: black;
   letter-spacing: 1.5px;
   color: white;
   margin: 0;

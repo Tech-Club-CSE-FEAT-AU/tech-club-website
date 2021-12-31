@@ -13,7 +13,7 @@ const ProjectCard = (props) => {
           <p>{metadata.content}</p>
         </div>
         <div className="img">
-          <img src={projectphoto} alt="project name" />
+          <img src={projectphoto} className="img-fluid" alt="project name"/>
         </div>
       </div>
       <hr />

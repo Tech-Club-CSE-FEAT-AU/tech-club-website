@@ -9,16 +9,17 @@ import "./CradUi.css";
 const CardUi = (props) => {
   let metadata = props.metadata;
   return (
-    <div className="cardbody" style={{ width: "18rem" }}>
+    // <div className="cardbody" style={{ width: "18rem" }}>
       <div className="card text-center">
         <div className="overflow">
           <img src={projectphoto1} alt="Event image" className="card-img-top" />
         </div>
-        <div className="card-body text-dark"></div>
+        <div className="card-body text-dark">
         <h4 className="card-title">{metadata.name}</h4>
         <p className="card-text text-secondary">{metadata.description}</p>
+        </div>
       </div>
-    </div>
+    // </div>
   );
 };
 

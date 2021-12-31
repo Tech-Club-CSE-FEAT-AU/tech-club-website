@@ -1,7 +1,7 @@
 .workcontainer {
   /* min-height: 200vh; */
   font-family: "Alata", sans-serif;
-  font-size: 1rem;
+  font-size: 17px;
 }
 .Title {
   text-align: center;
@@ -9,6 +9,7 @@
 }
 
 .workcontainer > div > h1 {
+  font-size: 40px;
   text-align: center;
   padding-top: 20px;
 }
@@ -20,7 +21,27 @@
 .content > img {
   padding-left: 40px;
 }
+.img-fluid {
+  min-width: 200px;
+}
 
 .content {
   font-family: "Montserrat", sans-serif;
+}
+.projectname {
+  font-size: 25px;
+}
+@media (max-width: 991px) {
+  .workcontainer {
+    font-size: 10px;
+  }
+  .projectname {
+    font-size: 15px;
+  }
+  .workcontainer > div > h1 {
+    font-size: 20px;
+  }
+  .img-fluid {
+    min-width: 120px;
+  }
 }
