@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Alata&family=Montserrat:wght@100&display=swap");
+.topcontainer {
+  /* text-align: center !important; */
+  /* align-items: center; */
+  background: black;
+  background-color: black;
+  height: 100vh;
+  color: white;
+  font-family: "Montserrat", serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+/* .topconatainer_content { */
+  /* padding-top: 200px; */
+  /* align-items: center; */
+  /* justify-content: center; */
+/* } */
+/* hr {
+  width: 30%;
+  text-align: center;
+  margin-left: 35%;
+  margin-top: 2%;
+} */
+
+.topcontainer > .topconatainer_content > h4 {
+  margin: 0;
+  /* text-align: center;
+  align-items: center; */
+  font-size: 20px;
+  white-space: nowrap;
+}
+.topcontainer > .topconatainer_content > .Icons > a > i {
+  /* text-align: center; */
+  /* white-space: nowrap !important; */
+  padding: 5em 1vw;
+  font-size: 2vw;
+  color: white;
+  display: inline;
+}
+
+.topcontainer > .topconatainer_content > .Icons {
+  align-items: center;
+  padding: 3vw 0.6vw;
+}
+@media (max-width: 991px) {
+  .topcontainer > .topconatainer_content > h4 {
+    font-size: 15px;
+  }
+  .topcontent {
+    font-size: 40px;
+  }
+}
