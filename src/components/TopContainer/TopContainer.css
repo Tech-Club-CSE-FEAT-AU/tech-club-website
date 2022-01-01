@@ -13,9 +13,9 @@
   text-align: center;
 }
 /* .topconatainer_content { */
-  /* padding-top: 200px; */
-  /* align-items: center; */
-  /* justify-content: center; */
+/* padding-top: 200px; */
+/* align-items: center; */
+/* justify-content: center; */
 /* } */
 /* hr {
   width: 30%;
@@ -47,8 +47,13 @@
 @media (max-width: 991px) {
   .topcontainer > .topconatainer_content > h4 {
     font-size: 15px;
+    margin-bottom: 20px !important;
   }
   .topcontent {
     font-size: 40px;
+  }
+  .fab {
+    padding-left: 10px !important;
+    font-size: 20px !important;
   }
 }
