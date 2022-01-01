@@ -2,6 +2,7 @@ import React from "react";
 import { Element } from "react-scroll";
 import "./EventsContainer.css";
 import CardUi from "./CardUi";
+import projectphoto1 from "../../Images/25-11-21 Workshop/Picture 1.png";
 
 const EventsContainer = (props) => {
   let metadata = props.metadata;
@@ -9,7 +10,7 @@ const EventsContainer = (props) => {
     <div>
       <Element name="Event" className="eventcontainer">
         <h1>Upcoming Events</h1>
-        <div className="container-fluid d-flex justify-content-center">
+        <div className="container d-flex justify-content-center">
           <div className="row">
             {metadata.UpcomingEvents.map((item) => {
               return (
@@ -21,7 +22,7 @@ const EventsContainer = (props) => {
           </div>
         </div>
         <h1>Past Events</h1>
-        <div className="container-fluid d-flex justify-content-center">
+        <div className="container d-flex justify-content-center">
           <div className="row">
             {metadata.PastEvents.map((item) => {
               return (
