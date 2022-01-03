@@ -18,6 +18,12 @@ div > h1 {
   font-size: 40px;
 }
 
+.container > div > div > ul > li {
+  list-style-type: lower-roman;
+  font-weight: bold;
+}
+
+
 @media (max-width: 991px) {
   .missioncontainer {
     font-size: 12px;

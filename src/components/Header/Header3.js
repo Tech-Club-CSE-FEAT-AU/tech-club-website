@@ -41,10 +41,10 @@ const Header3 = () => {
                   duration={500}
                   className="nav-item"
                 >
-                  <h4>Vission & Mission </h4>
+                  <h4>Vision & Mission </h4>
                 </Link>
               </li>
-              <li class="nav-item">
+              {/* <li class="nav-item">
                 <Link
                   to="Work"
                   smooth={true}
@@ -53,7 +53,7 @@ const Header3 = () => {
                 >
                   <h4>Work</h4>
                 </Link>
-              </li>
+              </li> */}
               <li class="nav-item">
                 <Link
                   to="Event"
