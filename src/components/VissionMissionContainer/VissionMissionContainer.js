@@ -14,31 +14,33 @@ const VissionMissionContainer = (props) => {
         <div className="container">
           <div className="row d-flex justify-content-center">
             <div className="col-md-11">
-                {metadata.mission.map((item) => {
-                  return (
-                    <ul>
-                      <li>{item.Mission1}</li>
-                      <li>{item.Mission2}</li>
-                      <li>{item.Mission3}</li>
-                      <li>{item.Mission4}</li>
-                      <li>{item.Mission5}</li>
-                      <li>{item.Mission6}</li>
-                      <li>{item.Mission7}</li>
-                    </ul>
-                  );
-                })}
+              {metadata.mission.map((item) => {
+                return (
+                  <ul>
+                    <li>{item.Mission1}</li>
+                    <li>{item.Mission2}</li>
+                    <li>{item.Mission3}</li>
+                    <li>{item.Mission4}</li>
+                    <li>{item.Mission5}</li>
+                    <li>{item.Mission6}</li>
+                    <li>{item.Mission7}</li>
+                  </ul>
+                );
+              })}
             </div>
           </div>
         </div>
       </div>
       <div>
         <h1>
-          <bold>Vission</bold>
+          <bold>Vision</bold>
         </h1>
         <div className="container">
           <div className="row d-flex justify-content-center">
             <div className="col-md-11">
-              <p>{metadata.vission}</p>
+              <ul>
+                <li style={{listStyleType:"none"}}>{metadata.vission}</li>
+              </ul>
             </div>
           </div>
         </div>

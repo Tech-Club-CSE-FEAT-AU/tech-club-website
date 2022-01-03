@@ -1,15 +1,36 @@
-.cardbody {
-  background: radial-gradient(#e5e5e5, #ffff, #e5e5e5);
-  /* margin: 10px; */
+@import url("https://fonts.googleapis.com/css2?family=Alata&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alata&display=swap");
+
+.text-dark {
+  font-family: "Alata", sans-serif;
 }
 
-.card {
-  /* width: 20rem; */
+@media (max-width: 991px) {
+  .text-dark {
+    font-size: 16px;
+  }
+}
+.cardcontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text-dark {
+  margin-top: 30px;
+}
+
+ .cardbody {
+  background: radial-gradient(#e5e5e5, #ffff, #e5e5e5);
+}
+
+/*.card {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-}
-.card-title {
+  overflow: hidden;
+  object-fit: cover;
+} 
+/* .card-title {
   font-size: 25px;
 }
 
@@ -47,4 +68,4 @@
   .card-title {
     font-size: 15px;
   }
-}
+} */

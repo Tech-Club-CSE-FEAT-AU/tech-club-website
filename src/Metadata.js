@@ -5,7 +5,7 @@ let Metadata={
     "addr": "Annamalai University,Annamalai Nagar,Chidambaram - 608002",
     "email": "-----",
     "github":"https://github.com/Tech-Club-CSE-FEAT-AU",
-    "discord":"https://discord.gg/pZVDRtru",
+    "discord":"https://discord.gg/ZpDKTUSdxU",
     "mission":[
         {
           "Mission1":"To be a platform for the students to practically implement their knowledge.",
@@ -60,22 +60,7 @@ let Metadata={
           "imgurl3":require("./Images/unknown copy.png"),
           "url": "www.google.com"
         },
-        {
-          "name":"Event Name",
-          "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-          "imgurl1":require("./Images/unknown copy.png"),
-          "imgurl2":require("./Images/unknown copy.png"),
-          "imgurl3":require("./Images/unknown copy.png"),
-          "url": "www.google.com/search?source=hp&ei=IOY0XKOaE5G6tQWrg45Y&q=google&btnK=Google+Search&oq=google&gs_l=psy-ab.3..35i39l2j0i131j0l2j0i131j0l3j0i131.348.2659..8164...0.0..2.1051.5333.2-1j2j1j2j2j1....3..0....1..gws-wiz.....6.Wu_VOGN16UM"
-        },
-        {
-          "name":"Event Name",
-          "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-          "imgurl1":require("./Images/unknown copy.png"),
-          "imgurl2":require("./Images/unknown copy.png"),
-          "imgurl3":require("./Images/unknown copy.png"),
-          "url": "www.google.com/search?source=hp&ei=IOY0XKOaE5G6tQWrg45Y&q=google&btnK=Google+Search&oq=google&gs_l=psy-ab.3..35i39l2j0i131j0l2j0i131j0l3j0i131.348.2659..8164...0.0..2.1051.5333.2-1j2j1j2j2j1....3..0....1..gws-wiz.....6.Wu_VOGN16UM"
-         },
+    
       ],
       "PastEvents":[
         {
@@ -84,7 +69,7 @@ let Metadata={
           "imgurl1":require("./Images/25-11-21 Workshop/Picture 1.png"),
           "imgurl2":require("./Images/25-11-21 Workshop/Picture 5.png"),
           "imgurl3":require("./Images/25-11-21 Workshop/Picture 6.png"),
-          "url": "www.google.com"
+          "url": require("./Images/25-11-21 Workshop/workshop_report_25-11-21.docx"),
         },
         {
           "name":"Workshop on Environment setup for python and c++ (2nd Year)",
@@ -92,7 +77,7 @@ let Metadata={
           "imgurl1":require("./Images/30-11-21 Workshop /30 11 Picture 1.png"),
           "imgurl2":require("./Images/30-11-21 Workshop /30 11Picture 2.png"),
           "imgurl3":require("./Images/30-11-21 Workshop /30 11Picture 3.png"),
-          "url": "www.google.com/search?source=hp&ei=IOY0XKOaE5G6tQWrg45Y&q=google&btnK=Google+Search&oq=google&gs_l=psy-ab.3..35i39l2j0i131j0l2j0i131j0l3j0i131.348.2659..8164...0.0..2.1051.5333.2-1j2j1j2j2j1....3..0....1..gws-wiz.....6.Wu_VOGN16UM"
+          "url": require("./Images/30-11-21 Workshop /workshop_report_30-11-21.docx"),
         },
         {
           "name":"Workshop on git version control system and GitHub (3rd Year)",
@@ -100,7 +85,7 @@ let Metadata={
           "imgurl1":require("./Images/06-12-21 Workshop/06 12 Picture 1.png"),
           "imgurl2":require("./Images/06-12-21 Workshop/06 12 Picture 2.png"),
           "imgurl3":require("./Images/06-12-21 Workshop/6 11 Picture 3.png"),
-          "url": "www.google.com/search?source=hp&ei=IOY0XKOaE5G6tQWrg45Y&q=google&btnK=Google+Search&oq=google&gs_l=psy-ab.3..35i39l2j0i131j0l2j0i131j0l3j0i131.348.2659..8164...0.0..2.1051.5333.2-1j2j1j2j2j1....3..0....1..gws-wiz.....6.Wu_VOGN16UM"
+          "url": require("./Images/06-12-21 Workshop/git_workshop_report_06-12-21.docx"),
          },
     
       ],
