@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tech-club-website/static/css/main.9f2b6251.css",
-    "main.js": "/tech-club-website/static/js/main.742d40cb.js",
+    "main.js": "/tech-club-website/static/js/main.7cdd4509.js",
     "static/media/git_workshop_report_06-12-21.docx": "/tech-club-website/static/media/git_workshop_report_06-12-21.98808dbf0e3611c94d68.docx",
     "static/media/workshop_report_30-11-21.docx": "/tech-club-website/static/media/workshop_report_30-11-21.4309891c226efbb1cca7.docx",
     "static/media/Tech-club-logo.png": "/tech-club-website/static/media/Tech-club-logo.41f8d15f4cc0c7916f57.png",
@@ -23,10 +23,10 @@
     "static/media/unknown copy.png": "/tech-club-website/static/media/unknown copy.5c0f26de1e0d988ddb80.png",
     "index.html": "/tech-club-website/index.html",
     "main.9f2b6251.css.map": "/tech-club-website/static/css/main.9f2b6251.css.map",
-    "main.742d40cb.js.map": "/tech-club-website/static/js/main.742d40cb.js.map"
+    "main.7cdd4509.js.map": "/tech-club-website/static/js/main.7cdd4509.js.map"
   },
   "entrypoints": [
     "static/css/main.9f2b6251.css",
-    "static/js/main.742d40cb.js"
+    "static/js/main.7cdd4509.js"
   ]
 }
