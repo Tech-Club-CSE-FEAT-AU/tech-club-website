@@ -15,7 +15,6 @@ a {
   z-index: 2000;
   /* padding: 0px !important;
   margin: 0px !important; */
-  
 }
 
 .header__left {
@@ -33,7 +32,7 @@ a {
   font-family: "Alata", sans-serif;
   letter-spacing: 1px;
   /* padding: 3px 0; */
-  font-size: 25px;
+  font-size: 30px;
   padding: 0px !important;
   margin: 0px !important;
 }
@@ -71,7 +70,7 @@ a {
   cursor: pointer;
   transition: transform 200ms ease-in-out;
   letter-spacing: 1px;
-  font-size: 15px;
+  font-size: 20px;
   color: white;
 }
 
@@ -86,4 +85,13 @@ a {
 
 .bg-dark {
   background-color: black !important;
+}
+
+@media (max-width: 991px) {
+  .navbar-right > li > a > h4 {
+    font-size: 15px;
+  }
+  .header__left > h1 {
+    font-size: 25px;
+  }
 }
