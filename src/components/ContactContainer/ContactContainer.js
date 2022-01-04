@@ -1,7 +1,7 @@
 import React from "react";
 import { Element } from "react-scroll";
 import "./ContactContainer.css";
-import techlogo from "../../Images/Tech-club-logo.png";
+import techlogo from "../../Images/Tech-club-logo-up.png";
 import github from "../../Images/GitHub-Mark-120px-plus.png";
 import discord from "../../Images/discord-icon.png";
 
@@ -38,3 +38,4 @@ const ContactContainer = (props) => {
 };
 
 export default ContactContainer;
+

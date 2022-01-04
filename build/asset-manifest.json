@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/tech-club-website/static/css/main.cbc21545.css",
-    "main.js": "/tech-club-website/static/js/main.aaabbbcc.js",
+    "main.css": "/tech-club-website/static/css/main.e268b301.css",
+    "main.js": "/tech-club-website/static/js/main.e41f9e20.js",
     "static/media/git_workshop_report_06-12-21.docx": "/tech-club-website/static/media/git_workshop_report_06-12-21.98808dbf0e3611c94d68.docx",
     "static/media/workshop_report_30-11-21.docx": "/tech-club-website/static/media/workshop_report_30-11-21.4309891c226efbb1cca7.docx",
-    "static/media/Tech-club-logo.png": "/tech-club-website/static/media/Tech-club-logo.41f8d15f4cc0c7916f57.png",
     "static/media/workshop_report_25-11-21.docx": "/tech-club-website/static/media/workshop_report_25-11-21.3c818fed93473583206c.docx",
+    "static/media/Tech-club-logo-up.png": "/tech-club-website/static/media/Tech-club-logo-up.a8aa72e8d86690d8aa09.png",
     "static/media/06 12 Picture 1.png": "/tech-club-website/static/media/06 12 Picture 1.fc443820e18af53f118b.png",
     "static/media/30 11 Picture 1.png": "/tech-club-website/static/media/30 11 Picture 1.a45b44381768e3ccf19c.png",
     "static/media/06 12 Picture 2.png": "/tech-club-website/static/media/06 12 Picture 2.75831cd97dc1cae31ccc.png",
@@ -19,14 +19,16 @@
     "static/media/fontawesome-webfont.eot": "/tech-club-website/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/tech-club-website/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/tech-club-website/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/github-icon.png": "/tech-club-website/static/media/github-icon.3ec61b93854178c47369.png",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/tech-club-website/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/unknown copy.png": "/tech-club-website/static/media/unknown copy.5c0f26de1e0d988ddb80.png",
+    "static/media/discord-icon.png": "/tech-club-website/static/media/discord-icon.fcb1b31f7dec865b27fe.png",
     "index.html": "/tech-club-website/index.html",
-    "main.cbc21545.css.map": "/tech-club-website/static/css/main.cbc21545.css.map",
-    "main.aaabbbcc.js.map": "/tech-club-website/static/js/main.aaabbbcc.js.map"
+    "main.e268b301.css.map": "/tech-club-website/static/css/main.e268b301.css.map",
+    "main.e41f9e20.js.map": "/tech-club-website/static/js/main.e41f9e20.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbc21545.css",
-    "static/js/main.aaabbbcc.js"
+    "static/css/main.e268b301.css",
+    "static/js/main.e41f9e20.js"
   ]
 }
