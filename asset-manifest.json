@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/tech-club-website/static/css/main.e268b301.css",
-    "main.js": "/tech-club-website/static/js/main.e41f9e20.js",
-    "static/media/git_workshop_report_06-12-21.docx": "/tech-club-website/static/media/git_workshop_report_06-12-21.98808dbf0e3611c94d68.docx",
-    "static/media/workshop_report_30-11-21.docx": "/tech-club-website/static/media/workshop_report_30-11-21.4309891c226efbb1cca7.docx",
-    "static/media/workshop_report_25-11-21.docx": "/tech-club-website/static/media/workshop_report_25-11-21.3c818fed93473583206c.docx",
+    "main.js": "/tech-club-website/static/js/main.8466a968.js",
+    "static/media/git_workshop_report_06-12-21.pdf": "/tech-club-website/static/media/git_workshop_report_06-12-21.5af75ff008157a97b9fe.pdf",
+    "static/media/workshop_report_30-11-21.pdf": "/tech-club-website/static/media/workshop_report_30-11-21.dcd2507d779ed4f168ad.pdf",
+    "static/media/workshop_report_25-11-21.pdf": "/tech-club-website/static/media/workshop_report_25-11-21.1ed19598640a060d567f.pdf",
     "static/media/Tech-club-logo-up.png": "/tech-club-website/static/media/Tech-club-logo-up.a8aa72e8d86690d8aa09.png",
     "static/media/06 12 Picture 1.png": "/tech-club-website/static/media/06 12 Picture 1.fc443820e18af53f118b.png",
     "static/media/30 11 Picture 1.png": "/tech-club-website/static/media/30 11 Picture 1.a45b44381768e3ccf19c.png",
@@ -25,10 +25,10 @@
     "static/media/discord-icon.png": "/tech-club-website/static/media/discord-icon.fcb1b31f7dec865b27fe.png",
     "index.html": "/tech-club-website/index.html",
     "main.e268b301.css.map": "/tech-club-website/static/css/main.e268b301.css.map",
-    "main.e41f9e20.js.map": "/tech-club-website/static/js/main.e41f9e20.js.map"
+    "main.8466a968.js.map": "/tech-club-website/static/js/main.8466a968.js.map"
   },
   "entrypoints": [
     "static/css/main.e268b301.css",
-    "static/js/main.e41f9e20.js"
+    "static/js/main.8466a968.js"
   ]
 }
