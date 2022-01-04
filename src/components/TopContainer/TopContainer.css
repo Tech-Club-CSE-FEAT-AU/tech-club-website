@@ -44,6 +44,14 @@
   align-items: center;
   padding: 3vw 0.6vw;
 }
+.Icons > a > img {
+  width: 50px;
+  margin-left: 25px;
+}
+.Icons > a > .github {
+  /* height: 30px; */
+  width: 38px;
+}
 @media (max-width: 991px) {
   .topcontainer > .topconatainer_content > h4 {
     font-size: 15px;
@@ -55,5 +63,12 @@
   .fab {
     padding-left: 10px !important;
     font-size: 20px !important;
+  }
+  .Icons > a > img {
+    width: 30px;
+    margin-left: 15px;
+  }
+  .Icons > a > .github {
+    width: 23px;
   }
 }

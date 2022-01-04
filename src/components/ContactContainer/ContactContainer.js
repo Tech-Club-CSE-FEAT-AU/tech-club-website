@@ -2,6 +2,8 @@ import React from "react";
 import { Element } from "react-scroll";
 import "./ContactContainer.css";
 import techlogo from "../../Images/Tech-club-logo.png";
+import github from "../../Images/GitHub-Mark-120px-plus.png";
+import discord from "../../Images/discord-icon.png";
 
 const ContactContainer = (props) => {
   let metadata = props.metadata;
@@ -17,14 +19,14 @@ const ContactContainer = (props) => {
           608002
         </p>
 
-        <p className="conatcticon">
-          <a href={metadata.github}>
-            <i class="fab fa-github"></i>
+        <div className="conatcticon">
+          <a href={metadata.github} target="_blank">
+            <img src={github} className="github"></img>
           </a>
-          <a href={metadata.discord}>
-            <i class="fab fa-discord"></i>
+          <a href={metadata.discord} target="_blank">
+            <img src={discord} className="discord"></img>
           </a>
-        </p>
+        </div>
         <div className="footer">
           &copy; 2021 Tech Club&nbsp;|&nbsp; All right reserved.
           <br />
