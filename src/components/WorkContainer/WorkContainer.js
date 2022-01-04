@@ -1,7 +1,6 @@
 import React from "react";
 import { Element } from "react-scroll";
 import "./WorkContainer.css";
-import projectphoto from "../../Images/unknown.png";
 import ProjectCard from "./ProjectCard";
 
 const WorkContainer = (props) => {

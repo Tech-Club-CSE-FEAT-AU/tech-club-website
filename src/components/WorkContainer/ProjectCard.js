@@ -1,6 +1,5 @@
 import React from "react";
 import "./WorkContainer.css";
-import projectphoto from "../../Images/unknown.png";
 
 const ProjectCard = (props) => {
   let metadata = props.metadata;

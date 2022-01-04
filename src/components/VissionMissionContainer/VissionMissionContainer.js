@@ -9,6 +9,20 @@ const VissionMissionContainer = (props) => {
     <Element name="Mission" className="missioncontainer">
       <div>
         <h1 className="Title">
+          <bold>Vision</bold>
+        </h1>
+        <div className="container">
+          <div className="row d-flex justify-content-center">
+            <div className="col-md-11">
+              <ul>
+                <li style={{ listStyleType: "none" }}>{metadata.vission}</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <h1 className="Title">
           <bold>Mission</bold>
         </h1>
         <div className="container">
@@ -27,20 +41,6 @@ const VissionMissionContainer = (props) => {
                   </ul>
                 );
               })}
-            </div>
-          </div>
-        </div>
-      </div>
-      <div>
-        <h1>
-          <bold>Vision</bold>
-        </h1>
-        <div className="container">
-          <div className="row d-flex justify-content-center">
-            <div className="col-md-11">
-              <ul>
-                <li style={{listStyleType:"none"}}>{metadata.vission}</li>
-              </ul>
             </div>
           </div>
         </div>
