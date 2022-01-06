@@ -17,19 +17,27 @@ To contribute to this project first clone this repository to local machine and m
 <img width="435" alt="Screenshot 2022-01-06 at 7 52 04 PM" src="https://user-images.githubusercontent.com/76959234/148397715-981efd13-83d1-4fd0-829c-e119e193652b.png">
 
 
+## Installation and Setup Instructions
 
-# Getting Started with Create React App
+Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Installation:
 
-## Available Scripts
+`npm install`  
 
-In the project directory, you can run:
+To Run Test Suite:  
 
-### `npm start`
+`npm test`  
+
+To Start Server:
+
+`npm start`  
+
+To Visit App:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
