@@ -1,7 +1,11 @@
 
+## Tech Club Website
 
 # This project is created for Annamalai University Tech club By students
 To contribute to this project first clone this repository to local machine and make contributions and make pull request with what changes you have made to the project
+
+## Project Screen Shot(s)
+
 
 # Getting Started with Create React App
 
